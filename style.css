@@ -123,12 +123,12 @@ html, body {
   font-weight: 700;
   color: var(--color-text-title);
   letter-spacing: 0.8px;
-  margin-bottom: 7px;
+  margin-bottom: 12px;
   line-height: 1.25;
   text-transform: uppercase;
 }
 
-/* Designation Subtitle — RASHEED KHAN (Director) */
+/* Designation Subtitle (Optional / Unused when showing Hotel only) */
 .profile-subtitle {
   font-family: var(--font-sans);
   font-size: 13.5px;
@@ -148,7 +148,7 @@ html, body {
   justify-content: center;
   gap: 10px;
   width: 160px;
-  margin: 0 auto 14px;
+  margin: 0 auto 6px;
   opacity: 0.85;
 }
 
